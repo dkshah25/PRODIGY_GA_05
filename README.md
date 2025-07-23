@@ -14,7 +14,7 @@ NST is a technique that takes two images — a **content image** and a **style i
 ![Starry City](stylized_result.jpg)
 
 ### 🌊 Style: The Great Wave | Content: Mt. Fuji
-![Fuji Wave](stylized_result(1).jpg)
+![Fuji Wave](stylized_result (1).jpg)
 
 ---
 
